@@ -2,8 +2,8 @@
 const About =()=>{
 
     return <>
-    <Link to="/home">Home</Link>
-    <Link to="/about">About</Link>
+    <a href="/home">Home</a>
+    <a href="/about">About</a>
     <h1>This is the about Page</h1>
     </>
 }
